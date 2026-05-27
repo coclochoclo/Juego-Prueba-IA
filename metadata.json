@@ -1,0 +1,6 @@
+{
+  "name": "Juego de Plataformas",
+  "description": "Un videojuego de plataformas interactivo en 2D con físicas de salto, carrera, ataque de espada, enemigos de patrulla, obstáculos peligrosos y un jefe final en una arena de batalla.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
